@@ -1,8 +1,7 @@
 body{
     background-color: peachpuff;
+    height: 100vh;
 }
-
-
 
 .winner{
     color: green;
@@ -13,13 +12,15 @@ body{
 }
 
 @media all and (max-width:700px){
+
     html,body{
-        overflow: hidden;
+        overflow-x: hidden;
     }
 
     body{
         position: relative;
     }
+
 
     #p1Button{
         width: 20%;
