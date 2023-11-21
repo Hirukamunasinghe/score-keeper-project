@@ -3,6 +3,10 @@ body{
     height: 100vh;
 }
 
+.container{
+    background-color: peachpuff;
+}
+
 .winner{
     color: green;
 }
