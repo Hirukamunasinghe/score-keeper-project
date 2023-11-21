@@ -3,9 +3,7 @@ body{
     height: 100vh;
 }
 
-.container{
-    height: 100vh;
-}
+
 
 .winner{
     color: green;
@@ -41,7 +39,7 @@ body{
     #reset{
         width: 20%;
         height: 30px;
-        font-size: 15px;
+        font-size: 10px;
         margin-top: 20px;
         padding: 0px;
     }
